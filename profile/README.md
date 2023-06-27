@@ -4,7 +4,7 @@ Welcome to the Party!
 
 ### Link
 
-- [partybank.app](https://partylabs.org) - Site
-- [dapp.partybank.app](https://app.partylabs.org) - Dapp
-- [blog.partybank.app](https://blog.partylabs.org) - Blog
-- [docs.partybank.app](https://docs.partylabs.org) - Docs
+- [partybank.org](https://partylabs.org) - Site
+- [dapp.partybank.org](https://app.partylabs.org) - Dapp
+- [blog.partybank.org](https://blog.partylabs.org) - Blog
+- [docs.partybank.org](https://docs.partylabs.org) - Docs
